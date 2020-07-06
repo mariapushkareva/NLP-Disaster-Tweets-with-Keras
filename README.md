@@ -1,7 +1,7 @@
 # NLP-Disaster-Tweets-with-Keras
 Getting started with NLP using Glove
 ## Project Intro/Objective
-The purpose of this project is to classify the tweets for disaster and non-disaster
+The purpose of this project was to classify the tweets for disaster and non-disaster ones
 ## Methods Used
 * Machine Learning
 * Data Visualization
