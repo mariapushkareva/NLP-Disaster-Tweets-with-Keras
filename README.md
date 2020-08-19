@@ -11,4 +11,5 @@ etc.
 ## Technologies
 * Python
 * Keras
+* GloVe
 * LSTM
